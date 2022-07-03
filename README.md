@@ -16,4 +16,4 @@
 
 ## See it live!
 
-    Navigate [here[]([https://<YOUR-GITHUB-USERNAME>.github.io/ocala-newsletter](https://jacksonxp.github.io/ocala-newsletter/)) to see it live!
+    Navigate [here[](https://jacksonxp.github.io/ocala-newsletter/) to see it live!
